@@ -26,12 +26,14 @@ python-dotenv==1.0.0
 sqlite3==3.35+  # Встроенная в Python
 ```
 ### 2.2 Структура БД
--- birthdays.db
+
+```
 CREATE TABLE IF NOT EXISTS birthdays (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     name TEXT NOT NULL,
     date DATE NOT NULL,
     user_id INTEGER NOT NULL,
     chat_id INTEGER NOT NULL
-);--
+);
+```
 
