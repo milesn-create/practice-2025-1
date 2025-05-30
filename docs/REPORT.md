@@ -1,4 +1,4 @@
-# Отчет по разработке Telegram-бота для напоминаний о днях рождения  (ТГ бот)[https://web.telegram.org/k/#@dr_happy_reminder_bot]
+# Отчет по разработке Telegram-бота для напоминаний о днях рождения  [ТГ бот](https://web.telegram.org/k/#@dr_happy_reminder_bot)
 # Содержание
 
 1. [Общая информация](#1-общая-информация)
